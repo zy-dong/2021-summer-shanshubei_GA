@@ -1,0 +1,1 @@
+解压后打开shanshubeiB_GA.m，运行，即可看到结果。
